@@ -29,8 +29,8 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t0maser&show_icons=true&theme=dark&hide_title=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t0maser&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t0maser&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t0maser&layout=compact&theme=radical&hide_border=true&count_private=true))
