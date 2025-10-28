@@ -31,6 +31,6 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t0maser&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t0maser&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&token=${{ secrets.GH_TOKEN }})
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t0maser&layout=compact&theme=radical&hide_border=true&count_private=true))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t0maser&layout=compact&theme=radical&hide_border=true&count_private=true&token=${{ secrets.GH_TOKEN }})
