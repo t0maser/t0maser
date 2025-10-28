@@ -9,7 +9,7 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=database&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS CDK](https://img.shields.io/badge/-AWS_CDK-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
