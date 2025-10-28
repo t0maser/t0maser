@@ -3,16 +3,19 @@
 <div align="center">
   <h3>AWS & Cloud Architecture</h3>
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" title="Amazon Web Services"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="EC2" title="Amazon EC2"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lambda/lambda-original.svg" width="45" height="45" alt="Lambda" title="AWS Lambda"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" alt="RDS" title="Amazon RDS"/>
+    <img src="https://cdn.svgporn.com/logos/aws.svg" width="45" height="45" alt="AWS" title="Amazon Web Services"/>
+    <img src="https://cdn.svgporn.com/logos/aws-ec2.svg" width="45" height="45" alt="EC2" title="Amazon EC2"/>
+    <img src="https://cdn.svgporn.com/logos/aws-lambda.svg" width="45" height="45" alt="Lambda" title="AWS Lambda"/>
+    <img src="https://cdn.svgporn.com/logos/aws-rds.svg" width="45" height="45" alt="RDS" title="Amazon RDS"/>
+    <img src="https://cdn.svgporn.com/logos/aws-dynamodb.svg" width="45" height="45" alt="DynamoDB" title="Amazon DynamoDB"/>
+    <img src="https://cdn.svgporn.com/logos/aws-cloudformation.svg" width="45" height="45" alt="CloudFormation" title="AWS CloudFormation"/>
   </div>
 
   <h3>Infrastructure & Networking</h3>
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <img src="https://cdn.svgporn.com/logos/aws-vpc.svg" width="45" height="45" alt="VPC" title="Amazon VPC"/>
+    <img src="https://cdn.svgporn.com/logos/aws-route53.svg" width="45" height="45" alt="Route53" title="Amazon Route 53"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networking/networking-original.svg" width="45" height="45" alt="Networking" title="AWS Networking"/>
   </div>
 
   <h3>Development</h3>
@@ -26,14 +29,16 @@
   <h3>DevOps & CI/CD</h3>
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
+    <img src="https://cdn.svgporn.com/logos/github-actions.svg" width="45" height="45" alt="GitHub Actions" title="GitHub Actions"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" title="Azure DevOps"/>
   </div>
 
   <h3>Monitoring & Security</h3>
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana" title="Grafana"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus" title="Prometheus"/>
+    <img src="https://cdn.svgporn.com/logos/grafana.svg" width="45" height="45" alt="Grafana" title="Grafana"/>
+    <img src="https://cdn.svgporn.com/logos/datadog.svg" width="45" height="45" alt="Datadog" title="Datadog"/>
+    <img src="https://cdn.svgporn.com/logos/aws-iam.svg" width="45" height="45" alt="IAM" title="AWS IAM"/>
+    <img src="https://cdn.svgporn.com/logos/aws-kms.svg" width="45" height="45" alt="KMS" title="AWS KMS"/>
   </div>
 </div>
 
