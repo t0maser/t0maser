@@ -44,9 +44,10 @@
   </div>
 </div>
 
-## GitHub Stats
+## Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t0maser&show_icons=true&theme=dark&hide_title=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0maser&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+[<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
+[<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
+
