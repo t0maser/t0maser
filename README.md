@@ -1,36 +1,52 @@
 # Tecnologías y Herramientas
 
 <div align="center">
-  <h3>Cloud & DevOps</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://cdn.svgporn.com/logos/aws.svg" width="40" height="40" alt="AWS"/>
-    <img src="https://cdn.svgporn.com/logos/aws-lambda.svg" width="40" height="40" alt="AWS Lambda"/>
-    <img src="https://cdn.svgporn.com/logos/aws-cloudformation.svg" width="40" height="40" alt="CloudFormation"/>
-    <img src="https://cdn.svgporn.com/logos/azure.svg" width="40" height="40" alt="Azure"/>
-    <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="40" height="40" alt="Docker"/>
+  <h3>AWS & Cloud Architecture</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <img src="https://cdn.svgporn.com/logos/aws.svg" width="45" height="45" alt="AWS" title="Amazon Web Services"/>
+    <img src="https://cdn.svgporn.com/logos/aws-ec2.svg" width="45" height="45" alt="EC2" title="Amazon EC2"/>
+    <img src="https://cdn.svgporn.com/logos/aws-lambda.svg" width="45" height="45" alt="Lambda" title="AWS Lambda"/>
+    <img src="https://cdn.svgporn.com/logos/aws-s3.svg" width="45" height="45" alt="S3" title="Amazon S3"/>
+    <img src="https://cdn.svgporn.com/logos/aws-cloudformation.svg" width="45" height="45" alt="CloudFormation" title="AWS CloudFormation"/>
+    <img src="https://cdn.svgporn.com/logos/aws-cloudwatch.svg" width="45" height="45" alt="CloudWatch" title="Amazon CloudWatch"/>
   </div>
 
-  <h3>Lenguajes & Frameworks</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40" height="40" alt="JavaScript"/>
-    <img src="https://cdn.svgporn.com/logos/python.svg" width="40" height="40" alt="Python"/>
-    <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40" height="40" alt="Node.js"/>
-    <img src="https://cdn.svgporn.com/logos/express.svg" width="40" height="40" alt="Express"/>
+  <h3>Infrastructure & Networking</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <img src="https://cdn.svgporn.com/logos/aws-vpc.svg" width="45" height="45" alt="VPC" title="Amazon VPC"/>
+    <img src="https://cdn.svgporn.com/logos/aws-route53.svg" width="45" height="45" alt="Route53" title="Amazon Route 53"/>
+    <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="45" height="45" alt="Docker" title="Docker"/>
+    <img src="https://cdn.svgporn.com/logos/kubernetes.svg" width="45" height="45" alt="Kubernetes" title="Kubernetes"/>
   </div>
 
-  <h3>Herramientas & CI/CD</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="40" height="40" alt="Git"/>
-    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="40" height="40" alt="VS Code"/>
-    <img src="https://cdn.svgporn.com/logos/github-actions.svg" width="40" height="40" alt="GitHub Actions"/>
-    <img src="https://cdn.svgporn.com/logos/sonarcloud-icon.svg" width="40" height="40" alt="SonarCloud"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png" width="40" height="40" alt="Azure DevOps"/>
+  <h3>Development & Languages</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <img src="https://cdn.svgporn.com/logos/javascript.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+    <img src="https://cdn.svgporn.com/logos/python.svg" width="45" height="45" alt="Python" title="Python"/>
+    <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="45" height="45" alt="Node.js" title="Node.js"/>
+    <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="45" height="45" alt="Bash" title="Bash Scripting"/>
   </div>
 
-  <h3>Shell & Scripting</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="40" height="40" alt="Bash"/>
-    <img src="https://cdn.svgporn.com/logos/powershell.svg" width="40" height="40" alt="PowerShell"/>
+  <h3>DevOps & CI/CD</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="45" height="45" alt="Git" title="Git"/>
+    <img src="https://cdn.svgporn.com/logos/github-actions.svg" width="45" height="45" alt="GitHub Actions" title="GitHub Actions"/>
+    <img src="https://cdn.svgporn.com/logos/aws-codepipeline.svg" width="45" height="45" alt="CodePipeline" title="AWS CodePipeline"/>
+  </div>
+
+  <h3>Monitoring & Observability</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <img src="https://cdn.svgporn.com/logos/grafana.svg" width="45" height="45" alt="Grafana" title="Grafana"/>
+    <img src="https://cdn.svgporn.com/logos/datadog.svg" width="45" height="45" alt="Datadog" title="Datadog"/>
+    <img src="https://cdn.svgporn.com/logos/prometheus.svg" width="45" height="45" alt="Prometheus" title="Prometheus"/>
+    <img src="https://cdn.svgporn.com/logos/elastic.svg" width="45" height="45" alt="ELK Stack" title="ELK Stack"/>
+  </div>
+
+  <h3>Quality & Security</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <img src="https://cdn.svgporn.com/logos/sonarcloud-icon.svg" width="45" height="45" alt="SonarCloud" title="SonarCloud"/>
+    <img src="https://cdn.svgporn.com/logos/aws-waf.svg" width="45" height="45" alt="AWS WAF" title="AWS WAF"/>
+    <img src="https://cdn.svgporn.com/logos/aws-iam.svg" width="45" height="45" alt="IAM" title="AWS IAM"/>
   </div>
 </div>
 
