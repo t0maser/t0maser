@@ -33,6 +33,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
     <img src="https://cdn.svgporn.com/logos/github-actions.svg" width="45" height="45" alt="GitHub Actions" title="GitHub Actions"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="45" height="45" alt="Azure DevOps" title="Azure DevOps"/>
+    <img src="https://cdn.svgporn.com/logos/aws-codecommit.svg" width="45" height="45" alt="AWS CodeCommit" title="AWS CodeCommit"/>
+    <img src="https://cdn.svgporn.com/logos/aws-codepipeline.svg" width="45" height="45" alt="AWS CodePipeline" title="AWS CodePipeline"/>
+    <img src="https://cdn.svgporn.com/logos/aws-codeartifact.svg" width="45" height="45" alt="AWS CodeArtifact" title="AWS CodeArtifact"/>
   </div>
 
   <h3>Monitoring & Security</h3>
