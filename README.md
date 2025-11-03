@@ -14,7 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana" title="Grafana"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="45" height="45" alt="Datadog" title="Datadog"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="45" height="45" alt="SonarQube" title="SonarQube"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/OWASP_Logo.svg" width="45" height="45" alt="OWASP" title="OWASP"/>
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/OWASP_Logo.svg" width="45" height="45" alt="OWASP" title="OWASP"/> -->
   </div>
 </div>
 
