@@ -36,7 +36,7 @@
     <img src="https://cdn.svgporn.com/logos/aws-codecommit.svg" width="45" height="45" alt="AWS CodeCommit" title="AWS CodeCommit"/>
     <img src="https://cdn.svgporn.com/logos/aws-codepipeline.svg" width="45" height="45" alt="AWS CodePipeline" title="AWS CodePipeline"/>
     <img src="https://cdn.svgporn.com/logos/aws-codebuild.svg" width="45" height="45" alt="AWS CodeBuild" title="AWS CodeBuild"/>
-    <img src="https://www.svgrepo.com/show/373468/aws-codeartifact.svg" width="45" height="45" alt="AWS CodeArtifact" title="AWS CodeArtifact"/>>
+    <img src="./assets/aws_codeartifact.svg" width="45" height="45" alt="AWS CodeArtifact" title="AWS CodeArtifact"/>
   </div>
 
   <h3>Monitoring & Security</h3>
