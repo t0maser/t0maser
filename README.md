@@ -32,7 +32,7 @@
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
     <img src="https://cdn.svgporn.com/logos/github-actions.svg" width="45" height="45" alt="GitHub Actions" title="GitHub Actions"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" title="Azure DevOps"/>
+    <img src="https://cdn.svgporn.com/logos/azure-pipelines.svg" width="45" height="45" alt="Azure Pipelines" title="Azure Pipelines"/>
   </div>
 
   <h3>Monitoring & Security</h3>
