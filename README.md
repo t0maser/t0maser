@@ -1,4 +1,4 @@
-# Tecnologías y Herramientas
+# Technologies and Tools
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; flex-wrap: wrap;">
     <img src="https://cdn.svgporn.com/logos/aws.svg" width="45" height="45" alt="AWS" title="Amazon Web Services"/>
