@@ -1,7 +1,7 @@
 # Tecnologías y Herramientas
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" title="Amazon Web Services"/>
+    <img src="https://cdn.svgporn.com/logos/aws.svg" width="45" height="45" alt="AWS" title="Amazon Web Services"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
@@ -15,7 +15,7 @@
   </div>
 </div>
 
-## Stats
+# Stats
 
 [<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
