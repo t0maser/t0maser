@@ -22,10 +22,10 @@
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/OWASP_Logo.svg" width="35" height="35" hspace="5" vspace="5"alt="OWASP" title="OWASP"/> -->
 </div>
 
-## Certifications: 
+## Certifications
 <div style="display: flex; flex-direction: row;">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="=40px" height="40px" hspace="5" vspace="5"/>
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="=40px" height="40px" hspace="5" vspace="5"/>
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="=40px" height="40px" hspace="5" vspace="5" alt="Cloud Practitioner" title="CloudPractitioner"/>
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="=40px" height="40px" hspace="5" vspace="5" alt="Solutions Architect Associate" title="Solutions Architect Associate"/>
 </div>
 
 ## Stats
