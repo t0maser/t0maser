@@ -12,8 +12,8 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-1024.png" width="35" height="35" hspace="5" vspace="5"alt="Angular js" title="Angular JS" />
   <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="35" height="35" hspace="5" vspace="5"alt="Bash" title="Bash Scripting"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" hspace="5" vspace="5"alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" hspace="5" vspace="5"alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="35" height="35" hspace="5" vspace="5"alt="Azure DevOps" title="Azure DevOps"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="35" height="35" hspace="5" vspace="5"alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png" width="35" height="35" hspace="5" vspace="5"alt="Azure DevOps" title="Azure DevOps"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35" height="35" hspace="5" vspace="5"alt="Grafana" title="Grafana"/>
   <img src="https://cdn.brandfetch.io/idg33VVWFZ/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1761201152480" width="35" height="35" hspace="5" vspace="5"alt="Datadog" title="Datadog"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="35" height="35" hspace="5" vspace="5"alt="SQL" title="SQL" />      
