@@ -24,8 +24,8 @@
 
 ## Certifications
 <div style="display: flex; flex-direction: row;">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="=70px" height="70px" hspace="5" vspace="5" alt="AWS Cloud Practitioner" title="AWS CloudPractitioner"/>
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="=40px" height="40px" hspace="5" vspace="5" alt="AWS Solutions Architect Associate" title="AWS Solutions Architect Associate"/>
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="=60px" height="60px" hspace="5" vspace="5" alt="AWS Cloud Practitioner" title="AWS CloudPractitioner"/>
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="=60px" height="60px" hspace="5" vspace="5" alt="AWS Solutions Architect Associate" title="AWS Solutions Architect Associate"/>
 </div>
 
 ## Stats
