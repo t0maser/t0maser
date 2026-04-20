@@ -1,14 +1,12 @@
 ## Technologies and Tools
-
 | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | <img src="https://cdn.svgporn.com/logos/aws.svg" width="35" height="35" alt="AWS" title="AWS"/> | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="35" height="35" alt="Docker"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35" alt="Linux"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" height="35" alt="TypeScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" alt="Python"/> | <img src="https://nodejs.org/static/logos/nodejsHex.svg" width="35" height="35" alt="NodeJS"/> | <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-1024.png" width="35" height="35" alt="Angular"/> | <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="35" height="35" alt="Bash"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/> | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="35" height="35" alt="GitHub"/> | <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png" width="35" height="35" alt="Azure DevOps"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35" height="35" alt="Grafana"/> | <img src="https://cdn.brandfetch.io/idg33VVWFZ/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1761201152480" width="35" height="35" alt="Datadog"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="35" height="35" alt="SQL"/> | <img src="https://cdn.svgporn.com/logos/sonarcloud-icon.svg" width="35" height="35" alt="SonarCloud"/> |
 
 ## Certifications
-<div style="display: flex; flex-direction: row;">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="=60px" height="60px" hspace="5" vspace="5" alt="AWS Cloud Practitioner" title="AWS CloudPractitioner"/>
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="=60px" height="60px" hspace="5" vspace="5" alt="AWS Solutions Architect Associate" title="AWS Solutions Architect Associate"/>
-</div>
+| | |
+|---|---|
+| <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" height="60" alt="AWS Cloud Practitioner" title="AWS Cloud Practitioner"/> | <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60" height="60" alt="AWS Solutions Architect Associate" title="AWS Solutions Architect Associate"/> |
 
 ## Stats
 [<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
