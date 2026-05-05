@@ -10,7 +10,10 @@
 
 ## Stats
 
-[<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
-[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
-[<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
-[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
+<div align="center">
+  <a href="#"><img width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg"></a>
+  <a href="#"><img width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg"></a>
+  <br>
+  <a href="#"><img width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg"></a>
+  <a href="#"><img width="390" alt="Isocalendar Stats" src="/metrics.plugin.isocalendar.svg"></a>
+</div>
