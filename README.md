@@ -1,13 +1,13 @@
 ## Technologies and Tools
-| | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| <img src="https://cdn.svgporn.com/logos/aws.svg" width="35" height="35" alt="AWS" title="AWS"/> | <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="35" height="35" alt="Docker" title="Docker"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35" alt="Linux" title="Linux"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript" title="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" height="35" alt="TypeScript" title="TypeScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" alt="Python" title="Python"/> | <img src="https://nodejs.org/static/logos/nodejsHex.svg" width="35" height="35" alt="NodeJS" title="NodeJS"/> | <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-1024.png" width="35" height="35" alt="Angular" title="Angular"/> | <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="35" height="35" alt="Bash" title="Bash"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git" title="Git"/> | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="35" height="35" alt="GitHub" title="GitHub"/> | <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png" width="35" height="35" alt="Azure DevOps" title="Azure DevOps"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35" height="35" alt="Grafana" title="Grafana"/> | <img src="https://cdn.brandfetch.io/idg33VVWFZ/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1761201152480" width="35" height="35" alt="Datadog" title="Datadog"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="35" height="35" alt="SQL" title="Bases de Datos"/> | <img src="https://cdn.svgporn.com/logos/sonarcloud-icon.svg" width="35" height="35" alt="SonarCloud" title="SonarCloud"/> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" width="35" height="35" alt="N8n" title="N8n"/> |
-
-## Certifications
-| | |
-|---|---|
-| <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" height="60" alt="AWS Cloud Practitioner" title="AWS Cloud Practitioner"/> | <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60" height="60" alt="AWS Solutions Architect Associate" title="AWS Solutions Architect Associate"/> |
-
+<div align="center">
+  <h2>Tomas</h2>
+  <p>Computer Engineer</p>
+  
+  <a href="https://tomaser.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio_Oficial-tomaser.dev-000000?style=for-the-badge" alt="tomaser.dev">
+  </a>
+  <br><br>
+</div>
 ## Stats
 [<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
