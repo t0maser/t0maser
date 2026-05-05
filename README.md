@@ -10,12 +10,21 @@
 
 ## Stats
 
-<p align="center">
-  <img src="/metrics.plugin.wakatime.svg" width="48%">
-  <img src="/metrics.plugin.traffic.svg" width="48%">
-</p>
-
-<p align="center">
-  <img src="/metrics.plugin.languages.details.svg" width="48%">
-  <img src="/metrics.plugin.isocalendar.svg" width="48%">
-</p>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
+      <img src="/metrics.plugin.wakatime.svg" width="400">
+    </td>
+    <td style="border: none; padding: 0;">
+      <img src="/metrics.plugin.traffic.svg" width="400">
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
+      <img src="/metrics.plugin.languages.details.svg" width="400">
+    </td>
+    <td style="border: none; padding: 0;">
+      <img src="/metrics.plugin.isocalendar.svg" width="400">
+    </td>
+  </tr>
+</table>
