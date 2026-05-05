@@ -1,4 +1,3 @@
-## Technologies and Tools
 <div align="center">
   <h2>Tomas</h2>
   <p>Computer Engineer</p>
