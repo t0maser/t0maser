@@ -10,18 +10,12 @@
 
 ## Stats
 
-<div align="center">
-  <a href="#">
-    <img width="49%" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">
-  </a>
-  <a href="#">
-    <img width="49%" alt="Repos Stats" src="/metrics.plugin.traffic.svg">
-  </a>
-  <br>
-  <a href="#">
-    <img width="49%" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">
-  </a>
-  <a href="#">
-    <img width="49%" alt="Isocalendar Stats" src="/metrics.plugin.isocalendar.svg">
-  </a>
-</div>
+<p align="center">
+  <img src="/metrics.plugin.wakatime.svg" width="48%">
+  <img src="/metrics.plugin.traffic.svg" width="48%">
+</p>
+
+<p align="center">
+  <img src="/metrics.plugin.languages.details.svg" width="48%">
+  <img src="/metrics.plugin.isocalendar.svg" width="48%">
+</p>
